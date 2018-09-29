@@ -1,0 +1,11 @@
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\bin\Debug\netcoreapp2.0\Demo2.deps.json
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\bin\Debug\netcoreapp2.0\Demo2.runtimeconfig.json
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\bin\Debug\netcoreapp2.0\Demo2.runtimeconfig.dev.json
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\bin\Debug\netcoreapp2.0\Demo2.dll
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\obj\Debug\netcoreapp2.0\Demo2.csprojAssemblyReference.cache
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\obj\Debug\netcoreapp2.0\Demo2.csproj.CoreCompileInputs.cache
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\obj\Debug\netcoreapp2.0\Demo2.AssemblyInfoInputs.cache
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\obj\Debug\netcoreapp2.0\Demo2.AssemblyInfo.cs
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\bin\Debug\netcoreapp2.0\Demo2.pdb
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\obj\Debug\netcoreapp2.0\Demo2.dll
+E:\ND-GLY\NETCore\zipkinDemo\zipkinTrace\Demo2\obj\Debug\netcoreapp2.0\Demo2.pdb
